@@ -145,4 +145,4 @@ Your site is served from the `dist/public` directory.
 ---
 
 ## 📝 License
-MIT License © 2025 [Anshul Sharma](https://github.com/AnshulSharma2005)
+MIT License © 2025 [Aadhya Nigam](https://github.com/AadhyaNigam)
