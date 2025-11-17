@@ -98,16 +98,16 @@ The app helps job seekers present their skills and experience in the best possib
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) v18+
 - [Firebase CLI](https://firebase.google.com/docs/cli)
 
 ### Installation
-```bash
-git clone https://github.com/AnshulSharma2005/RESUME.git
-cd RESUME
+```
+git clone https://github.com/AadhyaNigam/RESUME---Rendition-of-Skills-for-Un-Matched-Earnings.git
+cd RESUME---Rendition-of-Skills-for-Un-Matched-Earnings
 npm install
 ```
 
@@ -130,7 +130,7 @@ npm start
 
 ---
 
-## ☁️ Deployment (Firebase Hosting)
+## Deployment (Firebase Hosting)
 
 Continuous deployment is already configured:
 
